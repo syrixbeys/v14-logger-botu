@@ -8,4 +8,4 @@
    
 **3. Modüller Yüklendikten Sonra [node .] yazın**
 
-**Bot Aktif Olacaktır Her Hangi Bir Hata Alırsanız [Discord Aderisimiz](https://discord.gg/5gB3ZXvKv5)** 
+**Bot Aktif Olacaktır Her Hangi Bir Hata Alırsanız [Discord Aderisimiz - SDW MTA](discord.gg/mtasan)** 
